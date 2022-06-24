@@ -2,11 +2,11 @@
 
 I'm new to programming and want to learn much more about programming and algorithm. Currently I'm a college student at Faculty of Computer Science Jember University, Indonesia. So that's it, good luck and until next time see you!
 
-- 🌱 I’m currently learning CPP and GODOT
+- 🌱 I’m currently learning BackEnd
 - 👯 I’m looking to collaborate on Competitive Programming Partner
 - 🤔 I’m looking for help with 2D/3D Game Art
-- 💬 Ask me about Competitive Programming and Stuff
-- 📫 How to reach me: IG @orytomikli
+- 💬 Ask me about BackEnd Stuff
+- 📫 How to reach me: IG @oryto21
 - ⚡ Fun fact: Like to talk about stars
 
 ## Connect with me:
@@ -23,6 +23,6 @@ I'm new to programming and want to learn much more about programming and algorit
 
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://www.youtube.com/channel/UCoQKs_fQsJkoRleH52N7WdQ
-[instagram]: https://instagram.com/orytomikli
+[instagram]: https://instagram.com/oryto21
 [linkedin]: https://linkedin.com/in/mikli-oktarianto
 [facebook]: https://www.facebook.com/profile.php?id=100006955035155
