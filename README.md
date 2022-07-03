@@ -20,6 +20,7 @@ I'm new to programming and want to learn much more about programming and algorit
 
 ## Statistics
 <img src="https://github-readme-stats.vercel.app/api?username=Rianto21&&show_icons=true&title_color=db27db&icon_color=7527db&text_color=d47800&bg_color=152740">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rianto21)](https://github.com/Rianto21/github-readme-stats)
 
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://www.youtube.com/channel/UCoQKs_fQsJkoRleH52N7WdQ
