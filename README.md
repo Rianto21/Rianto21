@@ -18,7 +18,7 @@ I'm new to programming and want to learn much more about programming and algorit
 <br/>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rianto21&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false"></p><br/>
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rianto21&theme=vue-dark&hide_border=false"></p><br/>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianto21&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianto21&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"></p>
 <br/><br/>
 <p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"></p>
 
